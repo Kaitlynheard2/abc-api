@@ -1,0 +1,19 @@
+{
+  "name": "twitter_api",
+  "version": "1.0.0",
+  "description": "api to pull data from abc news",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kaitlynheard2/abc-api.git"
+  },
+  "author": "Kaitlyn Heard",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kaitlynheard2/abc-api/issues"
+  },
+  "homepage": "https://github.com/Kaitlynheard2/abc-api#readme"
+}
